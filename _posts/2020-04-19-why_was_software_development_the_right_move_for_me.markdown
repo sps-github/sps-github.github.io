@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why was software development the right move for me?"
-date:       2020-04-19 16:28:18 +0000
+title:      "Software development, an unlikely story."
+date:       2020-04-19 12:28:19 -0400
 permalink:  why_was_software_development_the_right_move_for_me
 ---
 
